@@ -75,34 +75,34 @@ For Android: Android Studio
 
 Installation
 Clone the repository
-
-bash
 git clone https://github.com/yourusername/payday-income-allocation.git
 cd payday-income-allocation
+
+
 Install dependencies
 
-bash
 npm install
-# or
+or
 yarn install
-Install iOS dependencies (if using macOS)
 
-bash
+Install iOS dependencies (if using macOS)
 cd ios && pod install && cd ..
+
+
 Running the App
+
 Android
-bash
 npm run android
-# or
+or
 yarn android
+
 iOS
-bash
 npm run ios
-# or
+or
 yarn ios
+
 Web (Experimental)
-bash
 npm run web
-# or
+or
 yarn web
 
