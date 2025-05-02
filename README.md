@@ -48,3 +48,61 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+Features
+Interactive sliders for allocating income percentages
+
+Real-time pie chart visualization
+
+Dollar amount calculations
+
+Cross-platform support (iOS & Android)
+
+Smooth animations and transitions
+
+Prerequisites
+Node.js (v14 or newer)
+
+npm or yarn
+
+React Native development environment setup
+
+For iOS: Xcode
+
+For Android: Android Studio
+
+Installation
+Clone the repository
+
+bash
+git clone https://github.com/yourusername/payday-income-allocation.git
+cd payday-income-allocation
+Install dependencies
+
+bash
+npm install
+# or
+yarn install
+Install iOS dependencies (if using macOS)
+
+bash
+cd ios && pod install && cd ..
+Running the App
+Android
+bash
+npm run android
+# or
+yarn android
+iOS
+bash
+npm run ios
+# or
+yarn ios
+Web (Experimental)
+bash
+npm run web
+# or
+yarn web
+
